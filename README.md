@@ -42,7 +42,7 @@ $$b_r = 0.3 \times ((r \bmod 5) + 1)$$
 
 **Computed Parameters:**
 $$a_r = 1.0$$
-$$b_r = 0.9$$
+$$b_r = 0.89999$$
 
 These parameters are computed programmatically and applied to all valid NO₂ samples to obtain the transformed variable \( z \).
 
